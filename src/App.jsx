@@ -1,5 +1,6 @@
 
-import "./App.css";
+ import "./App.css"; 
+
 import ProductCart from "./components/productCart";
 import { MdBluetoothAudio } from "react-icons/md";
 import { BsGraphDown } from "react-icons/bs";
